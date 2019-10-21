@@ -1,10 +1,6 @@
 # SmartContract
  
-<strong>SafePost&reg;</strong>
-
- 
-
-<strong>SafePost</strong> is an encrypted messaging platform that <strong>keeps the privacy of its users safe</strong> by proposing a strong and efficient alternative to emails.
+<strong>SafePost&reg;</strong> is an encrypted messaging platform that <strong>keeps the privacy of its users safe</strong> by proposing a strong and efficient alternative to emails.
 
  
 
