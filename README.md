@@ -24,4 +24,4 @@ SafePost proposes an ERC20 token whose name is STAMP.
 
  
 
-For more information, <a href="https://safepost.com">see the SafePost website</a>
+For further information, <a href="https://safepost.com">see the SafePost website</a>
